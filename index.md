@@ -11,8 +11,6 @@ If you like this poll, click on number 3:
 <details><summary>Click arrow to reveal answer</summary>
 <p>
 
-#### yes, even hidden code blocks!
-
 It's 3, yep, nice job.
 
 </p>
