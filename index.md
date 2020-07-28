@@ -1,3 +1,12 @@
+[![](https://api.gh-polls.com/poll/01EEBDDQ7WSQDC2JHHAAFAY8T5/Option%201)](https://api.gh-polls.com/poll/01EEBDDQ7WSQDC2JHHAAFAY8T5/Option%201/vote)
+[![](https://api.gh-polls.com/poll/01EEBDDQ7WSQDC2JHHAAFAY8T5/Option%202)](https://api.gh-polls.com/poll/01EEBDDQ7WSQDC2JHHAAFAY8T5/Option%202/vote)
+[![](https://api.gh-polls.com/poll/01EEBDDQ7WSQDC2JHHAAFAY8T5/option%203)](https://api.gh-polls.com/poll/01EEBDDQ7WSQDC2JHHAAFAY8T5/option%203/vote)
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/speckart/speckart.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
