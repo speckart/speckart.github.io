@@ -1,5 +1,12 @@
 [![hello there](https://res.cloudinary.com/marcomontalbano/image/upload/v1595964721/video_to_markdown/images/vimeo--198212082-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://vimeo.com/198212082 "hello there")
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/198212082" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p><a href="https://vimeo.com/198212082">Randomized Experiments</a> from <a href="https://vimeo.com/modu">Duke University Mod-U</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p>This module introduces the idea of randomized experiments, and why they help us learn causal effects.<br />
+<br />
+The Causal Inference Bootcamp is created by Duke University&#039;s Education and Human Development Incubator (EHDi) at Duke&#039;s Social Sciences Research Institute.  <br />
+<br />
+See our other modules on many related topics at Mod-U: https://modu.ssri.duke.edu</p>
 
 
 ## Poll 1: Can you click here?
