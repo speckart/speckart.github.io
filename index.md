@@ -1,4 +1,4 @@
-## Poll 1
+## Poll 1: Can you click here?
 
 If you like this poll, click on number 3:
 
@@ -6,7 +6,7 @@ If you like this poll, click on number 3:
 [![](https://api.gh-polls.com/poll/01EEBDDQ7WSQDC2JHHAAFAY8T5/Option%202)](https://api.gh-polls.com/poll/01EEBDDQ7WSQDC2JHHAAFAY8T5/Option%202/vote)
 [![](https://api.gh-polls.com/poll/01EEBDDQ7WSQDC2JHHAAFAY8T5/option%203)](https://api.gh-polls.com/poll/01EEBDDQ7WSQDC2JHHAAFAY8T5/option%203/vote)
 
-## collapsible markdown?
+## Answer:
 
 <details><summary>Click arrow to reveal answer</summary>
 <p>
