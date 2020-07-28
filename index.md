@@ -1,8 +1,22 @@
+## Poll 1
+
+If you like this poll, click on number 3:
+
 [![](https://api.gh-polls.com/poll/01EEBDDQ7WSQDC2JHHAAFAY8T5/Option%201)](https://api.gh-polls.com/poll/01EEBDDQ7WSQDC2JHHAAFAY8T5/Option%201/vote)
 [![](https://api.gh-polls.com/poll/01EEBDDQ7WSQDC2JHHAAFAY8T5/Option%202)](https://api.gh-polls.com/poll/01EEBDDQ7WSQDC2JHHAAFAY8T5/Option%202/vote)
 [![](https://api.gh-polls.com/poll/01EEBDDQ7WSQDC2JHHAAFAY8T5/option%203)](https://api.gh-polls.com/poll/01EEBDDQ7WSQDC2JHHAAFAY8T5/option%203/vote)
 
+## collapsible markdown?
 
+<details><summary>Click arrow to reveal answer</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+It's 3, yep, nice job.
+
+</p>
+</details>
 
 
 
